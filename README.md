@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Gilberto Modesto 🙋‍♂️
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008227930959)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilberto.m69/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-modesto-113bba1a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXgsh5%2F2vQ3OMjTDmmnMNgg%3D%3D)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008227930959)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilberto.m69/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-modesto-113bba1a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXgsh5%2F2vQ3OMjTDmmnMNgg%3D%3D)
 
 ![Gilberto-Modesto GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilberto-Modesto&show_icons=true&theme=radical)
 
