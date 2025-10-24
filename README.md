@@ -1,8 +1,7 @@
+ Olá eu sou o Gilberto🙋‍♂️
 
-### Olá eu sou o Gilberto Modesto 🙋‍♂️
 
-
-## Tecnologias que eu uso 
+Tecnologias que eu uso 
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
